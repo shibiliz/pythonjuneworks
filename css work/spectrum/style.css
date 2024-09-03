@@ -1,0 +1,141 @@
+.parent{
+    width: 100%;
+    height: 40%;
+    
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
+.border{
+    border: 20px white solid;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.child{
+    width: 60px;
+    height: 100px;
+    background-color: red;
+
+
+}
+
+.parent>:nth-child(1){
+    background-color: aquamarine;
+}
+.parent>:nth-child(2){
+    background-color: rgb(125, 134, 110);
+}
+.parent>:nth-child(3){
+    background-color:blue;
+}
+.parent>:nth-child(4){
+    background-color: green;
+}
+.parent>:nth-child(5){
+    background-color: yellow;
+}
+.parent1{
+    width: 100%;
+    height: 50%;
+    
+    display: flex;
+    justify-content:center;
+    align-items:center ;
+
+}
+.child{
+    width: 80px;
+    height: 100px;
+    background-color: gray;
+}
+.parent1>:nth-child(1){
+    background-color:orange;
+}
+.parent1>:nth-child(2){
+    background-color:pink;
+}
+.parent1>:nth-child(3){
+    background-color:salmon;
+}
+.parent1>:nth-child(4){
+    background-color: green;
+}
+.parent1>:nth-child(5){
+    background-color: lightgreen;
+}
+.parent1>:nth-child(6){
+    background-color:black;
+}
+.parent1>:nth-child(7){
+    background-color: blue;
+}
+.border2{
+    border: 20px solid white;
+}
+.parent2{
+    width: 100%;
+    height: 70%;
+    
+    display: flex;
+    justify-content:center;
+    align-items:center ;
+    
+}
+.child{
+    width: 100px;
+    height: 100px;
+}
+.border3{
+    border:20px solid white ;
+}
+.parent2>:nth-child(1){
+    background-color: rgba(126, 22, 95, 0.329);
+}
+.parent2>:nth-child(2){
+    background-color: rgb(51, 14, 85);
+}
+.parent2>:nth-child(3){
+    background-color: rgb(183, 197, 100);
+}
+.parent2>:nth-child(4){
+    background-color: rgb(134, 106, 13);
+}
+.parent2>:nth-child(5){
+    background-color: blueviolet;
+}
+.parent2>:nth-child(6){
+    background-color: rgb(94, 37, 47);
+}
+.parent2>:nth-child(7){
+    background-color: rgb(26, 11, 158);
+}
+.parent2>:nth-child(8){
+    background-color: rgb(20, 163, 39);
+}
+.parent2>:nth-child(9){
+    background-color: rgb(113, 185, 226);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

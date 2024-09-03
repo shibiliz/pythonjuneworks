@@ -1,0 +1,14 @@
+.parent{  
+    background-color: beige;
+    height: 400px;
+    width: 70%;
+    border: solid black 1px;
+    display: grid;
+
+}
+.child{
+    background-color: burlywood;
+    border: solid royalblue 1px;
+    width: 100px;
+    height: 70px; ;
+}

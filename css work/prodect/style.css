@@ -1,0 +1,35 @@
+.card-group{
+    width: 80%;
+    height: 650px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.card-image > img{
+    width: 100%;
+}
+.border{
+    border: black solid;
+}
+.card{
+    width: 30%;
+    min-height: 500px;
+    padding: 10px;
+    background-color: rgb(224, 226, 102);
+    border-radius: 10px;
+}
+button{
+    float: right;
+    border-radius: 10px;
+    background-color: white;
+}
+body{
+    background-color: rgb(207, 207, 181);
+}
+
+
+
+
+

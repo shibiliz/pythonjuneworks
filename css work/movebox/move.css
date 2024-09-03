@@ -1,0 +1,39 @@
+.border{
+    border: black solid;
+}
+
+    
+.parent{
+    width: 50%;
+    min-height: 530px;
+    
+    background-color: rgb(58, 21, 6);
+}
+.box1{
+    width: 50%;
+    background-color: green;
+    height: 100px;
+
+    
+}
+.box2{
+    width: 75%;
+    background-color: red;
+    height: 100px;
+}
+.box3{
+    width: 100vw;
+    background-color: aquamarine;
+    height: 100px;
+
+}
+.box4{
+    width: 50vw;
+    background-color: blueviolet;
+    height: 100px;
+}
+.box5{
+    width: 400px;
+    background-color: chocolate;
+    height: 100px;
+}

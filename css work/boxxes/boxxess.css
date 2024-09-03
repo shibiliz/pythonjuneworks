@@ -1,0 +1,18 @@
+.box{
+
+    width: 300px;
+    height: 200px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+.bg-green{
+    background-color: green;
+}
+
+.bg-yello{
+    background-color:yellow;
+}
+.bg-red{
+    background-color: red;
+}

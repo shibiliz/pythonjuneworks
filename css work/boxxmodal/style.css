@@ -1,0 +1,23 @@
+.border{
+    border: 2px solid black;
+}
+.first,.second,.aside,.section,.main{
+
+    width: 20%;
+    height: 50px;
+}
+.first{
+    margin-left: 400px;
+    padding-left: 200px;
+}
+.second{
+    margin-top: 400px;
+    margin-left: 400px;
+    padding-left: 200px;
+}
+.width{
+    width: 50px;
+}
+
+    
+
